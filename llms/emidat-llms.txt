@@ -1,0 +1,28 @@
+# Emidat
+
+> generated: 2026-07-19
+> method: generated
+> source: apis.yml
+
+> Emidat GmbH is a Munich-based climate technology company building product intelligence infrastructure for the construction industry. Its SaaS platform lets construction material manufacturers create verified Environmental Product Declarations (EPDs), run Life Cycle Assessments (LCAs), and produce Digital Product Passports (DPPs) at scale, generating ISO-compliant verified EPDs in as little as a day. Emidat has no public API or developer portal at this time; integrations are delivered as part of the enterprise platform.
+
+## Company
+- [Website](https://www.emidat.com): Primary company site
+- [About](https://www.emidat.com/about): Mission and team
+- [Blog / Resources](https://www.emidat.com/resources): Articles and case studies
+- [Application login](https://app.emidat.com): Customer application
+- [Imprint](https://www.emidat.com/imprint): Legal entity (Emidat GmbH, Munich, Germany)
+
+## Products
+- [EPD Database](https://epd-database.com): Public database of Environmental Product Declarations
+- [Emidat Atlas](https://atlas.emidat.com): Environmental data exploration tool
+
+## Security
+- [Trust Center](https://trust.emidat.com): Security and compliance posture
+- [Privacy Policy](https://www.emidat.com/privacy-policy): Data protection statement
+
+## Code
+- [GitHub organization](https://github.com/emidat): Emidat open-source presence
+
+## Social
+- [LinkedIn](https://www.linkedin.com/company/emidat): Company updates

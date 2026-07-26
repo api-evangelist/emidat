@@ -1,7 +1,17 @@
 aid: emidat
 name: Emidat
-description: Emidat is a company surfaced as a portfolio company of general-catalyst and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Emidat GmbH is a Munich-based climate technology company building product
+  intelligence infrastructure for the construction industry. Its SaaS platform
+  lets construction material manufacturers create verified Environmental Product
+  Declarations (EPDs), run Life Cycle Assessments (LCAs), and produce Digital
+  Product Passports (DPPs) at scale. Emidat ingests plant, ERP, and
+  energy-management data through integrations, performs intelligent data
+  matching, and generates ISO-compliant, verified EPDs in as little as a day
+  rather than the typical six to twelve months. The platform also surfaces
+  environmental-impact hotspots so manufacturers can find emission-reduction
+  opportunities and turn sustainability data into business value. Related tools
+  include the public EPD Database and Emidat Atlas.
 url: https://raw.githubusercontent.com/api-evangelist/emidat/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,14 +19,61 @@ x-backed-by:
 - general-catalyst
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.prod.website-files.com/65f1055550447ddfb48017f1/68f9175c8f36c5e3210f7b27_12.png
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Construction
+- Sustainability
+- Environmental Product Declaration
+- EPD
+- Life Cycle Assessment
+- Digital Product Passport
+- Carbon
+- Climate
+- Building Materials
 apis: []
+common:
+- type: Website
+  url: https://www.emidat.com
+- type: Blog
+  url: https://www.emidat.com/resources
+- type: PrivacyPolicy
+  url: https://www.emidat.com/privacy-policy
+- type: Imprint
+  url: https://www.emidat.com/imprint
+- type: Login
+  url: https://app.emidat.com
+- type: TrustCenter
+  url: https://trust.emidat.com
+- type: GitHubOrganization
+  url: https://github.com/emidat
+- type: LinkedIn
+  url: https://www.linkedin.com/company/emidat
+- type: DomainSecurity
+  url: security/emidat-domain-security.yml
+- type: LLMsTxt
+  url: llms/emidat-llms.txt
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
